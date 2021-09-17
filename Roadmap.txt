@@ -1,0 +1,39 @@
+Web Developer Roadmap
+
+Step.1 - Learn the Basics (in the case Master the basics)
+	-- HTML
+	-- CSS
+	-- JavaScript
+
+Step.2 - Build Little Project (About what you have learnt)
+	-- Hello World app
+	-- Login Form
+	-- Navbar
+	-- Linktree
+
+Step.3 - Choose Frameworks
+	--CSS
+	 |---> Bootstrap
+	 |---> Foundation
+	 |---> Materialize CSS
+	 |---> Sementic ui
+
+Step.4 - Learn Responsive Web Design
+
+Step.5 - JavaScript Frameworks
+	 |---> React
+	 |---> Angular
+	 |---> Vue.js
+
+Step.6 - Learn Backend
+	 |---> PHP
+	 |---> Python
+	 |---> Mongo.db
+	 |---> Node.js
+	 |---> MySQL
+	 |---> Ruby
+
+Step.7 - Learn Package Manager
+	|--> npm
+	|--> Yarn
+
